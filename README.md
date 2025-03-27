@@ -8,7 +8,7 @@ For the given dataset, as a Data Analyst, the client has asked How can a car man
 This problem could be approached by analyzing the relationship between a car's features, market category, and pricing, and identifying which features and categories are most popular among consumers and most profitable for the manufacturer. By using data analysis techniques such as regression analysis and market segmentation, the manufacturer could develop a pricing strategy that balances consumer demand with profitability, and identify which product features to focus on in future product development efforts. This could help the manufacturer improve its competitiveness in the market and increase its profitability over time.
 
 ## Project Details:
-Kindly find the details regarding the dataset, business understanding and submission format of the project in the Project Details doc at the following link:  
+Kindly find the details regarding the dataset, business understanding in the Project Details doc at the following link:  
 [Click Here](https://docs.google.com/document/d/1zvyOZ-0dt4TQn22HAoIQUJn2B3s9SSWZ/edit?usp=sharing&ouid=109009397325426290832&rtpof=true&sd=true)
 
 
