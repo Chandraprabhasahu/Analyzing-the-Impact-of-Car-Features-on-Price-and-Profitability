@@ -99,6 +99,12 @@ Build an interactive Excel dashboard with slicers and filters.
 
 ---
 
+##  Dashboard Preview
+
+![Dashboard](./images/Dashboard.png)
+
+---
+
 ## Repository Structure
 ```
 Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability/
