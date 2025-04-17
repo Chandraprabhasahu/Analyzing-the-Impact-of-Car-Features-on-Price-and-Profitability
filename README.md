@@ -124,13 +124,13 @@ Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability/
 ## Conclusion
 This project helps car manufacturers identify the most profitable and in-demand vehicle features by analyzing real-world data. By developing a comprehensive dashboard and performing targeted analysis, valuable business insights are drawn to guide pricing strategies and product development decisions.
 
-Key Takeaways:
+### Key Takeaways:
 
-Engine power, transmission type, and vehicle style significantly influence price.
+- Engine power, transmission type, and vehicle style significantly influence price.
 
-Market categories and manufacturer branding affect popularity and MSRP.
+- Market categories and manufacturer branding affect popularity and MSRP.
 
-Fuel efficiency trends vary based on engine configurations and year.
+- Fuel efficiency trends vary based on engine configurations and year.
 
 
 ---
